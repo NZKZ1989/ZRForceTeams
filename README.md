@@ -1,1 +1,1 @@
-У меня была проблема с плагином от Franc1sco который не работал должным образом. Этот плагин  немного модифицированная версия плагинов Franc1sco
+I had a problem with a plugin from Franc1sco that wasn't working properly. This plugin is a slightly modified version of Franc1sco plugins
